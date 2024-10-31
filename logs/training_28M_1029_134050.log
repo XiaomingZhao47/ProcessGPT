@@ -1,0 +1,23 @@
+2024-10-29 13:41:06 INFO: cfg_param: 28M, lr: 0.001, batch_size: 8, model_dir: models/model_28M_1029_134050, log_filename: logs/training_28M_1029_134050.log, seed: 3407, epochs: 2
+2024-10-29 13:41:08 INFO: Epoch: 1
+2024-10-29 13:42:26 INFO: Epoch 1, Update 100, Validation Loss: 3.9419
+2024-10-29 13:43:47 INFO: Epoch 1, Update 200, Validation Loss: 3.3457
+2024-10-29 13:45:07 INFO: Epoch 1, Update 300, Validation Loss: 4.6293
+2024-10-29 13:46:27 INFO: Epoch 1, Update 400, Validation Loss: 3.8781
+2024-10-29 13:47:45 INFO: Epoch 1, Update 500, Validation Loss: 2.7940
+2024-10-29 13:49:04 INFO: Epoch 1, Update 600, Validation Loss: 3.2079
+2024-10-29 13:50:24 INFO: Epoch 1, Update 700, Validation Loss: 2.4397
+2024-10-29 13:51:43 INFO: Epoch 1, Update 800, Validation Loss: 2.6281
+2024-10-29 13:53:01 INFO: Epoch 1, Update 900, Validation Loss: 3.1495
+2024-10-29 13:54:19 INFO: Epoch 1, Update 1000, Validation Loss: 2.6404
+2024-10-29 13:55:38 INFO: Epoch 1, Update 1100, Validation Loss: 2.5274
+2024-10-29 13:56:57 INFO: Epoch 1, Update 1200, Validation Loss: 3.1052
+2024-10-29 13:58:16 INFO: Epoch 1, Update 1300, Validation Loss: 2.6108
+2024-10-29 13:59:34 INFO: Epoch 1, Update 1400, Validation Loss: 2.4552
+2024-10-29 14:00:53 INFO: Epoch 1, Update 1500, Validation Loss: 2.1931
+2024-10-29 14:02:11 INFO: Epoch 1, Update 1600, Validation Loss: 2.3630
+2024-10-29 14:03:29 INFO: Epoch 1, Update 1700, Validation Loss: 2.2387
+2024-10-29 14:04:47 INFO: Epoch 1, Update 1800, Validation Loss: 2.2310
+2024-10-29 14:06:05 INFO: Epoch 1, Update 1900, Validation Loss: 2.2295
+2024-10-29 14:07:22 INFO: Epoch 1, Update 2000, Validation Loss: 2.1824
+2024-10-29 14:49:46 INFO: cfg_param: 28M, lr: 0.001, batch_size: 8, model_dir: models/model_28M_1029_134050, log_filename: logs/training_28M_1029_134050.log, seed: 3407, epochs: 2

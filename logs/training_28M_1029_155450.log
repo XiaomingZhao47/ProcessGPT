@@ -1,0 +1,7 @@
+2024-10-29 15:54:59 INFO: cfg_param: 28M, lr: 0.001, batch_size: 8, model_dir: models/model_28M_1029_155450, log_filename: logs/training_28M_1029_155450.log, seed: 3407, epochs: 2
+2024-10-29 15:55:26 INFO: Epoch: 1
+2024-10-29 15:56:44 INFO: Epoch 1, Update 100, Validation Loss: 5.5535
+2024-10-29 15:58:05 INFO: Epoch 1, Update 200, Validation Loss: 4.8961
+2024-10-29 16:15:28 INFO: Epoch: 1
+2024-10-29 16:17:48 INFO: Epoch 1, Update 400, Validation Loss: 2.9776
+2024-10-29 16:18:02 INFO: Model checkpoint saved at update 400

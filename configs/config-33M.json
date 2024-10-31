@@ -1,0 +1,49 @@
+{
+  "activation_function": "gelu_new",
+  "architectures": [
+    "GPTNeoForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "attention_layers": [
+    "global",
+    "local",
+    "global",
+    "local",
+    "global",
+    "local",
+    "global",
+    "local"
+  ],
+  "attention_types": [
+    [
+      [
+        "global",
+        "local"
+      ],
+      4
+    ]
+  ],
+  "bos_token_id": 50256,
+  "embed_dropout": 0.0,
+  "eos_token_id": 50256,
+  "gradient_checkpointing": false,
+  "hidden_size": 384,
+  "initializer_range": 0.02,
+  "intermediate_size": null,
+  "layer_norm_epsilon": 1e-05,
+  "max_position_embeddings": 512,
+  "model_type": "gpt_neo",
+  "num_heads": 12,
+  "num_layers": 8,
+  "resid_dropout": 0.0,
+  "use_cache": true,
+  "vocab_size": 50257,
+  "window_size": 512,
+  "batch_size": 8,
+  "learning_rate": 0.0005,
+  "adam_beta1": 0.9,
+  "adam_beta2": 0.95,
+  "weight_decay": 0.1,
+  "lr_schedule": "constant",
+  "gradient_accumulation_steps": 16
+}

@@ -1,0 +1,697 @@
+2024-10-29 16:18:57 INFO: cfg_param: 28M, lr: 0.001, batch_size: 8, model_dir: models/model_28M_1029_161840, log_filename: logs/training_28M_1029_161840.log, seed: 3407, epochs: 2
+2024-10-29 16:19:05 INFO: Epoch: 1
+2024-10-29 16:19:28 INFO: Epoch: 1
+2024-10-29 16:21:33 INFO: Epoch 1, Update 200, Validation Loss: 5.9285
+2024-10-29 16:23:57 INFO: Epoch 1, Update 400, Validation Loss: 2.8156
+2024-10-29 16:26:20 INFO: Epoch 1, Update 600, Validation Loss: 2.3310
+2024-10-29 16:28:41 INFO: Epoch 1, Update 800, Validation Loss: 2.5577
+2024-10-29 16:31:02 INFO: Epoch 1, Update 1000, Validation Loss: 2.4097
+2024-10-29 16:33:23 INFO: Epoch 1, Update 1200, Validation Loss: 2.3604
+2024-10-29 16:35:44 INFO: Epoch 1, Update 1400, Validation Loss: 2.4982
+2024-10-29 16:38:05 INFO: Epoch 1, Update 1600, Validation Loss: 2.6486
+2024-10-29 16:40:26 INFO: Epoch 1, Update 1800, Validation Loss: 2.5491
+2024-10-29 16:42:46 INFO: Epoch 1, Update 2000, Validation Loss: 2.3780
+2024-10-29 16:42:59 INFO: Model checkpoint saved at update 2000
+2024-10-29 16:45:18 INFO: Epoch 1, Update 2200, Validation Loss: 2.2055
+2024-10-29 16:47:36 INFO: Epoch 1, Update 2400, Validation Loss: 2.3361
+2024-10-29 16:49:55 INFO: Epoch 1, Update 2600, Validation Loss: 2.2287
+2024-10-29 16:52:15 INFO: Epoch 1, Update 2800, Validation Loss: 2.2249
+2024-10-29 16:54:34 INFO: Epoch 1, Update 3000, Validation Loss: 2.2267
+2024-10-29 16:56:54 INFO: Epoch 1, Update 3200, Validation Loss: 2.1624
+2024-10-29 16:59:13 INFO: Epoch 1, Update 3400, Validation Loss: 2.3101
+2024-10-29 17:01:33 INFO: Epoch 1, Update 3600, Validation Loss: 2.2236
+2024-10-29 17:03:52 INFO: Epoch 1, Update 3800, Validation Loss: 2.3693
+2024-10-29 17:06:11 INFO: Epoch 1, Update 4000, Validation Loss: 2.2630
+2024-10-29 17:06:29 INFO: Model checkpoint saved at update 4000
+2024-10-29 17:08:47 INFO: Epoch 1, Update 4200, Validation Loss: 2.2378
+2024-10-29 17:11:07 INFO: Epoch 1, Update 4400, Validation Loss: 2.2959
+2024-10-29 17:13:26 INFO: Epoch 1, Update 4600, Validation Loss: 2.1773
+2024-10-29 17:15:45 INFO: Epoch 1, Update 4800, Validation Loss: 2.1769
+2024-10-29 17:18:04 INFO: Epoch 1, Update 5000, Validation Loss: 2.3024
+2024-10-29 17:20:24 INFO: Epoch 1, Update 5200, Validation Loss: 2.2328
+2024-10-29 17:22:43 INFO: Epoch 1, Update 5400, Validation Loss: 2.4152
+2024-10-29 17:25:02 INFO: Epoch 1, Update 5600, Validation Loss: 2.2523
+2024-10-29 17:27:22 INFO: Epoch 1, Update 5800, Validation Loss: 2.2875
+2024-10-29 17:29:41 INFO: Epoch 1, Update 6000, Validation Loss: 2.1627
+2024-10-29 17:30:00 INFO: Model checkpoint saved at update 6000
+2024-10-29 17:32:19 INFO: Epoch 1, Update 6200, Validation Loss: 2.2002
+2024-10-29 17:34:37 INFO: Epoch 1, Update 6400, Validation Loss: 2.2659
+2024-10-29 17:36:57 INFO: Epoch 1, Update 6600, Validation Loss: 2.2278
+2024-10-29 17:39:17 INFO: Epoch 1, Update 6800, Validation Loss: 2.2330
+2024-10-29 17:41:38 INFO: Epoch 1, Update 7000, Validation Loss: 2.3145
+2024-10-29 17:43:58 INFO: Epoch 1, Update 7200, Validation Loss: 2.1308
+2024-10-29 17:46:19 INFO: Epoch 1, Update 7400, Validation Loss: 2.2479
+2024-10-29 17:48:40 INFO: Epoch 1, Update 7600, Validation Loss: 2.3427
+2024-10-29 17:51:01 INFO: Epoch 1, Update 7800, Validation Loss: 2.3386
+2024-10-29 17:53:22 INFO: Epoch 1, Update 8000, Validation Loss: 2.3164
+2024-10-29 17:53:42 INFO: Model checkpoint saved at update 8000
+2024-10-29 17:56:01 INFO: Epoch 1, Update 8200, Validation Loss: 2.3072
+2024-10-29 17:58:21 INFO: Epoch 1, Update 8400, Validation Loss: 2.2056
+2024-10-29 18:00:41 INFO: Epoch 1, Update 8600, Validation Loss: 2.1379
+2024-10-29 18:03:01 INFO: Epoch 1, Update 8800, Validation Loss: 2.1489
+2024-10-29 18:05:22 INFO: Epoch 1, Update 9000, Validation Loss: 2.3186
+2024-10-29 18:07:42 INFO: Epoch 1, Update 9200, Validation Loss: 2.1794
+2024-10-29 18:10:02 INFO: Epoch 1, Update 9400, Validation Loss: 2.1782
+2024-10-29 18:12:23 INFO: Epoch 1, Update 9600, Validation Loss: 2.1189
+2024-10-29 18:14:43 INFO: Epoch 1, Update 9800, Validation Loss: 2.3285
+2024-10-29 18:17:03 INFO: Epoch 1, Update 10000, Validation Loss: 2.0994
+2024-10-29 18:17:22 INFO: Model checkpoint saved at update 10000
+2024-10-29 18:19:41 INFO: Epoch 1, Update 10200, Validation Loss: 2.1575
+2024-10-29 18:22:01 INFO: Epoch 1, Update 10400, Validation Loss: 2.2813
+2024-10-29 18:24:21 INFO: Epoch 1, Update 10600, Validation Loss: 2.1850
+2024-10-29 18:26:41 INFO: Epoch 1, Update 10800, Validation Loss: 2.2315
+2024-10-29 18:29:00 INFO: Epoch 1, Update 11000, Validation Loss: 2.2511
+2024-10-29 18:31:19 INFO: Epoch 1, Update 11200, Validation Loss: 2.0147
+2024-10-29 18:33:39 INFO: Epoch 1, Update 11400, Validation Loss: 2.1788
+2024-10-29 18:35:58 INFO: Epoch 1, Update 11600, Validation Loss: 2.1257
+2024-10-29 18:38:17 INFO: Epoch 1, Update 11800, Validation Loss: 2.1198
+2024-10-29 18:40:36 INFO: Epoch 1, Update 12000, Validation Loss: 2.0703
+2024-10-29 18:40:54 INFO: Model checkpoint saved at update 12000
+2024-10-29 18:43:12 INFO: Epoch 1, Update 12200, Validation Loss: 2.0864
+2024-10-29 18:45:29 INFO: Epoch 1, Update 12400, Validation Loss: 2.0766
+2024-10-29 18:47:47 INFO: Epoch 1, Update 12600, Validation Loss: 2.1656
+2024-10-29 18:50:05 INFO: Epoch 1, Update 12800, Validation Loss: 2.0039
+2024-10-29 18:52:22 INFO: Epoch 1, Update 13000, Validation Loss: 2.1984
+2024-10-29 18:54:39 INFO: Epoch 1, Update 13200, Validation Loss: 2.1137
+2024-10-29 18:56:57 INFO: Epoch 1, Update 13400, Validation Loss: 2.1452
+2024-10-29 18:59:13 INFO: Epoch 1, Update 13600, Validation Loss: 2.1127
+2024-10-29 19:01:30 INFO: Epoch 1, Update 13800, Validation Loss: 2.0756
+2024-10-29 19:03:48 INFO: Epoch 1, Update 14000, Validation Loss: 2.2021
+2024-10-29 19:04:07 INFO: Model checkpoint saved at update 14000
+2024-10-29 19:06:24 INFO: Epoch 1, Update 14200, Validation Loss: 2.0742
+2024-10-29 19:08:41 INFO: Epoch 1, Update 14400, Validation Loss: 2.1921
+2024-10-29 19:10:58 INFO: Epoch 1, Update 14600, Validation Loss: 2.1445
+2024-10-29 19:13:16 INFO: Epoch 1, Update 14800, Validation Loss: 2.0272
+2024-10-29 19:15:34 INFO: Epoch 1, Update 15000, Validation Loss: 2.0672
+2024-10-29 19:17:52 INFO: Epoch 1, Update 15200, Validation Loss: 2.0380
+2024-10-29 19:20:10 INFO: Epoch 1, Update 15400, Validation Loss: 2.0698
+2024-10-29 19:22:27 INFO: Epoch 1, Update 15600, Validation Loss: 2.1715
+2024-10-29 19:24:45 INFO: Epoch 1, Update 15800, Validation Loss: 2.0647
+2024-10-29 19:27:02 INFO: Epoch 1, Update 16000, Validation Loss: 2.0287
+2024-10-29 19:27:20 INFO: Model checkpoint saved at update 16000
+2024-10-29 19:29:36 INFO: Epoch 1, Update 16200, Validation Loss: 1.9391
+2024-10-29 19:31:53 INFO: Epoch 1, Update 16400, Validation Loss: 2.0147
+2024-10-29 19:34:11 INFO: Epoch 1, Update 16600, Validation Loss: 2.0835
+2024-10-29 19:36:29 INFO: Epoch 1, Update 16800, Validation Loss: 2.0562
+2024-10-29 19:38:47 INFO: Epoch 1, Update 17000, Validation Loss: 1.8987
+2024-10-29 19:41:05 INFO: Epoch 1, Update 17200, Validation Loss: 2.0774
+2024-10-29 19:43:22 INFO: Epoch 1, Update 17400, Validation Loss: 2.1188
+2024-10-29 19:45:40 INFO: Epoch 1, Update 17600, Validation Loss: 2.1458
+2024-10-29 19:47:58 INFO: Epoch 1, Update 17800, Validation Loss: 2.0467
+2024-10-29 19:50:16 INFO: Epoch 1, Update 18000, Validation Loss: 2.0516
+2024-10-29 19:50:34 INFO: Model checkpoint saved at update 18000
+2024-10-29 19:52:51 INFO: Epoch 1, Update 18200, Validation Loss: 2.0236
+2024-10-29 19:55:08 INFO: Epoch 1, Update 18400, Validation Loss: 1.9660
+2024-10-29 19:57:26 INFO: Epoch 1, Update 18600, Validation Loss: 2.1342
+2024-10-29 19:59:42 INFO: Epoch 1, Update 18800, Validation Loss: 2.0375
+2024-10-29 20:02:00 INFO: Epoch 1, Update 19000, Validation Loss: 1.9953
+2024-10-29 20:04:18 INFO: Epoch 1, Update 19200, Validation Loss: 2.0892
+2024-10-29 20:06:36 INFO: Epoch 1, Update 19400, Validation Loss: 2.1114
+2024-10-29 20:08:54 INFO: Epoch 1, Update 19600, Validation Loss: 1.9332
+2024-10-29 20:11:11 INFO: Epoch 1, Update 19800, Validation Loss: 1.9658
+2024-10-29 20:13:28 INFO: Epoch 1, Update 20000, Validation Loss: 2.0152
+2024-10-29 20:13:46 INFO: Model checkpoint saved at update 20000
+2024-10-29 20:16:02 INFO: Epoch 1, Update 20200, Validation Loss: 1.9604
+2024-10-29 20:18:19 INFO: Epoch 1, Update 20400, Validation Loss: 1.9916
+2024-10-29 20:20:37 INFO: Epoch 1, Update 20600, Validation Loss: 2.0146
+2024-10-29 20:22:54 INFO: Epoch 1, Update 20800, Validation Loss: 2.0847
+2024-10-29 20:25:12 INFO: Epoch 1, Update 21000, Validation Loss: 1.9746
+2024-10-29 20:27:29 INFO: Epoch 1, Update 21200, Validation Loss: 1.9387
+2024-10-29 20:29:46 INFO: Epoch 1, Update 21400, Validation Loss: 2.0271
+2024-10-29 20:32:03 INFO: Epoch 1, Update 21600, Validation Loss: 1.9413
+2024-10-29 20:34:21 INFO: Epoch 1, Update 21800, Validation Loss: 2.0140
+2024-10-29 20:36:39 INFO: Epoch 1, Update 22000, Validation Loss: 1.9894
+2024-10-29 20:36:57 INFO: Model checkpoint saved at update 22000
+2024-10-29 20:39:15 INFO: Epoch 1, Update 22200, Validation Loss: 1.9994
+2024-10-29 20:41:34 INFO: Epoch 1, Update 22400, Validation Loss: 2.0038
+2024-10-29 20:43:53 INFO: Epoch 1, Update 22600, Validation Loss: 2.1287
+2024-10-29 20:46:10 INFO: Epoch 1, Update 22800, Validation Loss: 1.9727
+2024-10-29 20:48:29 INFO: Epoch 1, Update 23000, Validation Loss: 1.8940
+2024-10-29 20:50:47 INFO: Epoch 1, Update 23200, Validation Loss: 1.8825
+2024-10-29 20:53:05 INFO: Epoch 1, Update 23400, Validation Loss: 2.0483
+2024-10-29 20:55:22 INFO: Epoch 1, Update 23600, Validation Loss: 2.1478
+2024-10-29 20:57:39 INFO: Epoch 1, Update 23800, Validation Loss: 1.9893
+2024-10-29 20:59:58 INFO: Epoch 1, Update 24000, Validation Loss: 1.9543
+2024-10-29 21:00:16 INFO: Model checkpoint saved at update 24000
+2024-10-29 21:02:32 INFO: Epoch 1, Update 24200, Validation Loss: 2.1163
+2024-10-29 21:04:50 INFO: Epoch 1, Update 24400, Validation Loss: 1.9642
+2024-10-29 21:07:07 INFO: Epoch 1, Update 24600, Validation Loss: 1.9905
+2024-10-29 21:09:24 INFO: Epoch 1, Update 24800, Validation Loss: 2.0547
+2024-10-29 21:11:41 INFO: Epoch 1, Update 25000, Validation Loss: 1.9805
+2024-10-29 21:13:58 INFO: Epoch 1, Update 25200, Validation Loss: 1.8654
+2024-10-29 21:16:15 INFO: Epoch 1, Update 25400, Validation Loss: 1.9811
+2024-10-29 21:18:32 INFO: Epoch 1, Update 25600, Validation Loss: 1.8758
+2024-10-29 21:20:48 INFO: Epoch 1, Update 25800, Validation Loss: 1.9909
+2024-10-29 21:23:04 INFO: Epoch 1, Update 26000, Validation Loss: 1.9653
+2024-10-29 21:23:22 INFO: Model checkpoint saved at update 26000
+2024-10-29 21:25:39 INFO: Epoch 1, Update 26200, Validation Loss: 1.8172
+2024-10-29 21:27:56 INFO: Epoch 1, Update 26400, Validation Loss: 1.9152
+2024-10-29 21:30:13 INFO: Epoch 1, Update 26600, Validation Loss: 2.0717
+2024-10-29 21:32:30 INFO: Epoch 1, Update 26800, Validation Loss: 1.9484
+2024-10-29 21:34:47 INFO: Epoch 1, Update 27000, Validation Loss: 1.8835
+2024-10-29 21:37:02 INFO: Epoch 1, Update 27200, Validation Loss: 2.0470
+2024-10-29 21:39:18 INFO: Epoch 1, Update 27400, Validation Loss: 2.0422
+2024-10-29 21:41:35 INFO: Epoch 1, Update 27600, Validation Loss: 1.8821
+2024-10-29 21:43:52 INFO: Epoch 1, Update 27800, Validation Loss: 1.9431
+2024-10-29 21:46:08 INFO: Epoch 1, Update 28000, Validation Loss: 1.9217
+2024-10-29 21:46:26 INFO: Model checkpoint saved at update 28000
+2024-10-29 21:48:41 INFO: Epoch 1, Update 28200, Validation Loss: 1.9601
+2024-10-29 21:50:58 INFO: Epoch 1, Update 28400, Validation Loss: 1.9479
+2024-10-29 21:53:15 INFO: Epoch 1, Update 28600, Validation Loss: 1.9162
+2024-10-29 21:55:32 INFO: Epoch 1, Update 28800, Validation Loss: 2.0048
+2024-10-29 21:57:49 INFO: Epoch 1, Update 29000, Validation Loss: 2.0402
+2024-10-29 22:00:06 INFO: Epoch 1, Update 29200, Validation Loss: 1.9871
+2024-10-29 22:02:23 INFO: Epoch 1, Update 29400, Validation Loss: 1.9882
+2024-10-29 22:04:40 INFO: Epoch 1, Update 29600, Validation Loss: 1.9577
+2024-10-29 22:06:58 INFO: Epoch 1, Update 29800, Validation Loss: 1.9475
+2024-10-29 22:09:14 INFO: Epoch 1, Update 30000, Validation Loss: 1.9746
+2024-10-29 22:09:32 INFO: Model checkpoint saved at update 30000
+2024-10-29 22:11:49 INFO: Epoch 1, Update 30200, Validation Loss: 1.8989
+2024-10-29 22:14:06 INFO: Epoch 1, Update 30400, Validation Loss: 2.0285
+2024-10-29 22:16:22 INFO: Epoch 1, Update 30600, Validation Loss: 2.0566
+2024-10-29 22:18:40 INFO: Epoch 1, Update 30800, Validation Loss: 1.8956
+2024-10-29 22:20:57 INFO: Epoch 1, Update 31000, Validation Loss: 1.9943
+2024-10-29 22:23:14 INFO: Epoch 1, Update 31200, Validation Loss: 1.9624
+2024-10-29 22:25:31 INFO: Epoch 1, Update 31400, Validation Loss: 1.9165
+2024-10-29 22:27:48 INFO: Epoch 1, Update 31600, Validation Loss: 1.9352
+2024-10-29 22:30:05 INFO: Epoch 1, Update 31800, Validation Loss: 1.9310
+2024-10-29 22:32:23 INFO: Epoch 1, Update 32000, Validation Loss: 1.8945
+2024-10-29 22:32:40 INFO: Model checkpoint saved at update 32000
+2024-10-29 22:34:57 INFO: Epoch 1, Update 32200, Validation Loss: 1.8580
+2024-10-29 22:37:14 INFO: Epoch 1, Update 32400, Validation Loss: 2.0212
+2024-10-29 22:39:33 INFO: Epoch 1, Update 32600, Validation Loss: 1.9100
+2024-10-29 22:41:51 INFO: Epoch 1, Update 32800, Validation Loss: 1.9762
+2024-10-29 22:44:08 INFO: Epoch 1, Update 33000, Validation Loss: 1.8890
+2024-10-29 22:46:26 INFO: Epoch 1, Update 33200, Validation Loss: 1.8980
+2024-10-29 22:48:44 INFO: Epoch 1, Update 33400, Validation Loss: 2.0708
+2024-10-29 22:51:02 INFO: Epoch 1, Update 33600, Validation Loss: 2.0302
+2024-10-29 22:53:19 INFO: Epoch 1, Update 33800, Validation Loss: 1.9434
+2024-10-29 22:55:37 INFO: Epoch 1, Update 34000, Validation Loss: 1.9674
+2024-10-29 22:55:55 INFO: Model checkpoint saved at update 34000
+2024-10-29 22:58:11 INFO: Epoch 1, Update 34200, Validation Loss: 1.9831
+2024-10-29 23:00:30 INFO: Epoch 1, Update 34400, Validation Loss: 1.8567
+2024-10-29 23:02:48 INFO: Epoch 1, Update 34600, Validation Loss: 2.0142
+2024-10-29 23:05:06 INFO: Epoch 1, Update 34800, Validation Loss: 1.9964
+2024-10-29 23:07:23 INFO: Epoch 1, Update 35000, Validation Loss: 1.9736
+2024-10-29 23:09:42 INFO: Epoch 1, Update 35200, Validation Loss: 1.9728
+2024-10-29 23:11:59 INFO: Epoch 1, Update 35400, Validation Loss: 2.0214
+2024-10-29 23:14:18 INFO: Epoch 1, Update 35600, Validation Loss: 1.9343
+2024-10-29 23:16:37 INFO: Epoch 1, Update 35800, Validation Loss: 1.9961
+2024-10-29 23:18:55 INFO: Epoch 1, Update 36000, Validation Loss: 1.9263
+2024-10-29 23:19:13 INFO: Model checkpoint saved at update 36000
+2024-10-29 23:21:29 INFO: Epoch 1, Update 36200, Validation Loss: 1.9193
+2024-10-29 23:23:48 INFO: Epoch 1, Update 36400, Validation Loss: 1.9618
+2024-10-29 23:26:05 INFO: Epoch 1, Update 36600, Validation Loss: 1.9482
+2024-10-29 23:28:23 INFO: Epoch 1, Update 36800, Validation Loss: 1.9106
+2024-10-29 23:30:41 INFO: Epoch 1, Update 37000, Validation Loss: 1.8693
+2024-10-29 23:32:59 INFO: Epoch 1, Update 37200, Validation Loss: 1.8853
+2024-10-29 23:35:18 INFO: Epoch 1, Update 37400, Validation Loss: 2.0634
+2024-10-29 23:37:36 INFO: Epoch 1, Update 37600, Validation Loss: 1.8901
+2024-10-29 23:39:53 INFO: Epoch 1, Update 37800, Validation Loss: 1.8914
+2024-10-29 23:42:12 INFO: Epoch 1, Update 38000, Validation Loss: 1.8649
+2024-10-29 23:42:30 INFO: Model checkpoint saved at update 38000
+2024-10-29 23:44:46 INFO: Epoch 1, Update 38200, Validation Loss: 1.9216
+2024-10-29 23:47:03 INFO: Epoch 1, Update 38400, Validation Loss: 2.0699
+2024-10-29 23:49:22 INFO: Epoch 1, Update 38600, Validation Loss: 2.0230
+2024-10-29 23:51:40 INFO: Epoch 1, Update 38800, Validation Loss: 1.9404
+2024-10-29 23:53:58 INFO: Epoch 1, Update 39000, Validation Loss: 1.9398
+2024-10-29 23:56:16 INFO: Epoch 1, Update 39200, Validation Loss: 1.9365
+2024-10-29 23:58:34 INFO: Epoch 1, Update 39400, Validation Loss: 1.9864
+2024-10-30 00:00:52 INFO: Epoch 1, Update 39600, Validation Loss: 1.9165
+2024-10-30 00:03:10 INFO: Epoch 1, Update 39800, Validation Loss: 2.0074
+2024-10-30 00:05:28 INFO: Epoch 1, Update 40000, Validation Loss: 1.9910
+2024-10-30 00:05:46 INFO: Model checkpoint saved at update 40000
+2024-10-30 00:08:03 INFO: Epoch 1, Update 40200, Validation Loss: 1.9957
+2024-10-30 00:10:23 INFO: Epoch 1, Update 40400, Validation Loss: 2.0591
+2024-10-30 00:12:42 INFO: Epoch 1, Update 40600, Validation Loss: 2.0211
+2024-10-30 00:15:00 INFO: Epoch 1, Update 40800, Validation Loss: 2.0399
+2024-10-30 00:17:19 INFO: Epoch 1, Update 41000, Validation Loss: 1.9376
+2024-10-30 00:19:38 INFO: Epoch 1, Update 41200, Validation Loss: 1.7985
+2024-10-30 00:21:57 INFO: Epoch 1, Update 41400, Validation Loss: 2.0142
+2024-10-30 00:24:16 INFO: Epoch 1, Update 41600, Validation Loss: 1.8719
+2024-10-30 00:26:34 INFO: Epoch 1, Update 41800, Validation Loss: 2.0094
+2024-10-30 00:28:53 INFO: Epoch 1, Update 42000, Validation Loss: 1.9050
+2024-10-30 00:29:11 INFO: Model checkpoint saved at update 42000
+2024-10-30 00:31:28 INFO: Epoch 1, Update 42200, Validation Loss: 2.0560
+2024-10-30 00:33:47 INFO: Epoch 1, Update 42400, Validation Loss: 1.8517
+2024-10-30 00:36:07 INFO: Epoch 1, Update 42600, Validation Loss: 1.9212
+2024-10-30 00:38:26 INFO: Epoch 1, Update 42800, Validation Loss: 1.9875
+2024-10-30 00:40:45 INFO: Epoch 1, Update 43000, Validation Loss: 1.9687
+2024-10-30 00:43:04 INFO: Epoch 1, Update 43200, Validation Loss: 2.0137
+2024-10-30 00:45:24 INFO: Epoch 1, Update 43400, Validation Loss: 1.9128
+2024-10-30 00:47:44 INFO: Epoch 1, Update 43600, Validation Loss: 1.9593
+2024-10-30 00:50:03 INFO: Epoch 1, Update 43800, Validation Loss: 1.8860
+2024-10-30 00:52:23 INFO: Epoch 1, Update 44000, Validation Loss: 2.0162
+2024-10-30 00:52:40 INFO: Model checkpoint saved at update 44000
+2024-10-30 00:54:58 INFO: Epoch 1, Update 44200, Validation Loss: 1.9090
+2024-10-30 00:57:17 INFO: Epoch 1, Update 44400, Validation Loss: 1.9738
+2024-10-30 00:59:36 INFO: Epoch 1, Update 44600, Validation Loss: 1.9405
+2024-10-30 01:01:55 INFO: Epoch 1, Update 44800, Validation Loss: 1.8810
+2024-10-30 01:04:14 INFO: Epoch 1, Update 45000, Validation Loss: 1.9744
+2024-10-30 01:06:33 INFO: Epoch 1, Update 45200, Validation Loss: 1.9862
+2024-10-30 01:08:53 INFO: Epoch 1, Update 45400, Validation Loss: 1.9209
+2024-10-30 01:11:12 INFO: Epoch 1, Update 45600, Validation Loss: 2.0324
+2024-10-30 01:13:30 INFO: Epoch 1, Update 45800, Validation Loss: 1.9149
+2024-10-30 01:15:49 INFO: Epoch 1, Update 46000, Validation Loss: 1.9651
+2024-10-30 01:16:07 INFO: Model checkpoint saved at update 46000
+2024-10-30 01:18:24 INFO: Epoch 1, Update 46200, Validation Loss: 1.9630
+2024-10-30 01:20:42 INFO: Epoch 1, Update 46400, Validation Loss: 1.9678
+2024-10-30 01:22:59 INFO: Epoch 1, Update 46600, Validation Loss: 2.0308
+2024-10-30 01:25:18 INFO: Epoch 1, Update 46800, Validation Loss: 2.0133
+2024-10-30 01:27:36 INFO: Epoch 1, Update 47000, Validation Loss: 1.9549
+2024-10-30 01:29:55 INFO: Epoch 1, Update 47200, Validation Loss: 1.7929
+2024-10-30 01:32:13 INFO: Epoch 1, Update 47400, Validation Loss: 2.0037
+2024-10-30 01:34:31 INFO: Epoch 1, Update 47600, Validation Loss: 1.8559
+2024-10-30 01:36:49 INFO: Epoch 1, Update 47800, Validation Loss: 1.9024
+2024-10-30 01:39:08 INFO: Epoch 1, Update 48000, Validation Loss: 1.8880
+2024-10-30 01:39:26 INFO: Model checkpoint saved at update 48000
+2024-10-30 01:41:43 INFO: Epoch 1, Update 48200, Validation Loss: 2.0377
+2024-10-30 01:44:02 INFO: Epoch 1, Update 48400, Validation Loss: 1.9654
+2024-10-30 01:46:20 INFO: Epoch 1, Update 48600, Validation Loss: 1.8378
+2024-10-30 01:48:38 INFO: Epoch 1, Update 48800, Validation Loss: 1.9583
+2024-10-30 01:50:56 INFO: Epoch 1, Update 49000, Validation Loss: 2.0160
+2024-10-30 01:53:13 INFO: Epoch 1, Update 49200, Validation Loss: 1.9080
+2024-10-30 01:55:32 INFO: Epoch 1, Update 49400, Validation Loss: 1.8677
+2024-10-30 01:57:50 INFO: Epoch 1, Update 49600, Validation Loss: 2.0109
+2024-10-30 02:00:09 INFO: Epoch 1, Update 49800, Validation Loss: 2.0180
+2024-10-30 02:02:26 INFO: Epoch 1, Update 50000, Validation Loss: 1.9129
+2024-10-30 02:02:44 INFO: Model checkpoint saved at update 50000
+2024-10-30 02:05:01 INFO: Epoch 1, Update 50200, Validation Loss: 1.9958
+2024-10-30 02:07:20 INFO: Epoch 1, Update 50400, Validation Loss: 1.9419
+2024-10-30 02:09:39 INFO: Epoch 1, Update 50600, Validation Loss: 1.9566
+2024-10-30 02:11:57 INFO: Epoch 1, Update 50800, Validation Loss: 1.8622
+2024-10-30 02:14:15 INFO: Epoch 1, Update 51000, Validation Loss: 1.9715
+2024-10-30 02:16:32 INFO: Epoch 1, Update 51200, Validation Loss: 1.9444
+2024-10-30 02:18:50 INFO: Epoch 1, Update 51400, Validation Loss: 1.9571
+2024-10-30 02:21:08 INFO: Epoch 1, Update 51600, Validation Loss: 1.9565
+2024-10-30 02:23:27 INFO: Epoch 1, Update 51800, Validation Loss: 1.8744
+2024-10-30 02:25:45 INFO: Epoch 1, Update 52000, Validation Loss: 2.0257
+2024-10-30 02:26:02 INFO: Model checkpoint saved at update 52000
+2024-10-30 02:28:19 INFO: Epoch 1, Update 52200, Validation Loss: 1.9029
+2024-10-30 02:30:37 INFO: Epoch 1, Update 52400, Validation Loss: 1.8846
+2024-10-30 02:32:54 INFO: Epoch 1, Update 52600, Validation Loss: 1.9691
+2024-10-30 02:35:13 INFO: Epoch 1, Update 52800, Validation Loss: 1.9820
+2024-10-30 02:37:31 INFO: Epoch 1, Update 53000, Validation Loss: 2.0258
+2024-10-30 02:39:49 INFO: Epoch 1, Update 53200, Validation Loss: 1.9447
+2024-10-30 02:42:08 INFO: Epoch 1, Update 53400, Validation Loss: 1.8972
+2024-10-30 02:44:25 INFO: Epoch 1, Update 53600, Validation Loss: 1.9165
+2024-10-30 02:46:44 INFO: Epoch 1, Update 53800, Validation Loss: 1.9213
+2024-10-30 02:49:02 INFO: Epoch 1, Update 54000, Validation Loss: 2.0316
+2024-10-30 02:49:20 INFO: Model checkpoint saved at update 54000
+2024-10-30 02:51:37 INFO: Epoch 1, Update 54200, Validation Loss: 1.8485
+2024-10-30 02:53:55 INFO: Epoch 1, Update 54400, Validation Loss: 1.8496
+2024-10-30 02:56:13 INFO: Epoch 1, Update 54600, Validation Loss: 2.0488
+2024-10-30 02:58:30 INFO: Epoch 1, Update 54800, Validation Loss: 1.9103
+2024-10-30 03:00:48 INFO: Epoch 1, Update 55000, Validation Loss: 1.9113
+2024-10-30 03:03:05 INFO: Epoch 1, Update 55200, Validation Loss: 1.8613
+2024-10-30 03:05:24 INFO: Epoch 1, Update 55400, Validation Loss: 1.9700
+2024-10-30 03:07:42 INFO: Epoch 1, Update 55600, Validation Loss: 2.0350
+2024-10-30 03:10:00 INFO: Epoch 1, Update 55800, Validation Loss: 1.9881
+2024-10-30 03:12:18 INFO: Epoch 1, Update 56000, Validation Loss: 1.9003
+2024-10-30 03:12:36 INFO: Model checkpoint saved at update 56000
+2024-10-30 03:14:52 INFO: Epoch 1, Update 56200, Validation Loss: 1.9172
+2024-10-30 03:17:09 INFO: Epoch 1, Update 56400, Validation Loss: 1.9729
+2024-10-30 03:19:26 INFO: Epoch 1, Update 56600, Validation Loss: 1.9848
+2024-10-30 03:21:43 INFO: Epoch 1, Update 56800, Validation Loss: 1.8700
+2024-10-30 03:24:00 INFO: Epoch 1, Update 57000, Validation Loss: 1.8132
+2024-10-30 03:26:17 INFO: Epoch 1, Update 57200, Validation Loss: 1.9182
+2024-10-30 03:28:33 INFO: Epoch 1, Update 57400, Validation Loss: 1.9116
+2024-10-30 03:30:51 INFO: Epoch 1, Update 57600, Validation Loss: 1.8697
+2024-10-30 03:33:08 INFO: Epoch 1, Update 57800, Validation Loss: 1.7976
+2024-10-30 03:35:25 INFO: Epoch 1, Update 58000, Validation Loss: 1.9516
+2024-10-30 03:35:43 INFO: Model checkpoint saved at update 58000
+2024-10-30 03:38:00 INFO: Epoch 1, Update 58200, Validation Loss: 1.9399
+2024-10-30 03:40:17 INFO: Epoch 1, Update 58400, Validation Loss: 1.9936
+2024-10-30 03:42:35 INFO: Epoch 1, Update 58600, Validation Loss: 1.8814
+2024-10-30 03:44:51 INFO: Epoch 1, Update 58800, Validation Loss: 1.9768
+2024-10-30 03:47:09 INFO: Epoch 1, Update 59000, Validation Loss: 1.9209
+2024-10-30 03:49:25 INFO: Epoch 1, Update 59200, Validation Loss: 1.9820
+2024-10-30 03:51:42 INFO: Epoch 1, Update 59400, Validation Loss: 1.9744
+2024-10-30 03:54:00 INFO: Epoch 1, Update 59600, Validation Loss: 1.9463
+2024-10-30 03:56:17 INFO: Epoch 1, Update 59800, Validation Loss: 1.7728
+2024-10-30 03:58:35 INFO: Epoch 1, Update 60000, Validation Loss: 1.8107
+2024-10-30 03:58:52 INFO: Model checkpoint saved at update 60000
+2024-10-30 04:01:08 INFO: Epoch 1, Update 60200, Validation Loss: 1.8984
+2024-10-30 04:03:25 INFO: Epoch 1, Update 60400, Validation Loss: 1.8969
+2024-10-30 04:05:42 INFO: Epoch 1, Update 60600, Validation Loss: 1.8966
+2024-10-30 04:07:59 INFO: Epoch 1, Update 60800, Validation Loss: 1.7707
+2024-10-30 04:10:16 INFO: Epoch 1, Update 61000, Validation Loss: 1.9294
+2024-10-30 04:12:33 INFO: Epoch 1, Update 61200, Validation Loss: 1.8759
+2024-10-30 04:14:51 INFO: Epoch 1, Update 61400, Validation Loss: 1.9323
+2024-10-30 04:17:08 INFO: Epoch 1, Update 61600, Validation Loss: 1.9544
+2024-10-30 04:19:25 INFO: Epoch 1, Update 61800, Validation Loss: 1.9492
+2024-10-30 04:21:43 INFO: Epoch 1, Update 62000, Validation Loss: 1.9370
+2024-10-30 04:22:00 INFO: Model checkpoint saved at update 62000
+2024-10-30 04:23:52 INFO: Epoch training complete
+2024-10-30 04:23:52 INFO: Computing final validation loss...
+2024-10-30 04:24:08 INFO: Final validation loss after epoch 1: 1.8786
+2024-10-30 04:24:26 INFO: Model saved after epoch 1
+2024-10-30 04:25:04 INFO: Model artifact logged to wandb
+2024-10-30 04:25:04 INFO: Epoch: 2
+2024-10-30 04:25:42 INFO: Epoch 2, Update 62200, Validation Loss: 1.9254
+2024-10-30 04:27:58 INFO: Epoch 2, Update 62400, Validation Loss: 1.8841
+2024-10-30 04:30:16 INFO: Epoch 2, Update 62600, Validation Loss: 1.8041
+2024-10-30 04:32:33 INFO: Epoch 2, Update 62800, Validation Loss: 1.8724
+2024-10-30 04:34:50 INFO: Epoch 2, Update 63000, Validation Loss: 1.9302
+2024-10-30 04:37:07 INFO: Epoch 2, Update 63200, Validation Loss: 1.8025
+2024-10-30 04:39:24 INFO: Epoch 2, Update 63400, Validation Loss: 1.8462
+2024-10-30 04:41:41 INFO: Epoch 2, Update 63600, Validation Loss: 1.9438
+2024-10-30 04:43:58 INFO: Epoch 2, Update 63800, Validation Loss: 1.9746
+2024-10-30 04:46:16 INFO: Epoch 2, Update 64000, Validation Loss: 1.9567
+2024-10-30 04:46:34 INFO: Model checkpoint saved at update 64000
+2024-10-30 04:48:51 INFO: Epoch 2, Update 64200, Validation Loss: 1.9305
+2024-10-30 04:51:08 INFO: Epoch 2, Update 64400, Validation Loss: 1.8463
+2024-10-30 04:53:26 INFO: Epoch 2, Update 64600, Validation Loss: 1.8995
+2024-10-30 04:55:43 INFO: Epoch 2, Update 64800, Validation Loss: 1.9843
+2024-10-30 04:58:00 INFO: Epoch 2, Update 65000, Validation Loss: 1.8237
+2024-10-30 05:00:18 INFO: Epoch 2, Update 65200, Validation Loss: 1.9482
+2024-10-30 05:02:34 INFO: Epoch 2, Update 65400, Validation Loss: 2.0037
+2024-10-30 05:04:52 INFO: Epoch 2, Update 65600, Validation Loss: 1.9148
+2024-10-30 05:07:09 INFO: Epoch 2, Update 65800, Validation Loss: 1.9691
+2024-10-30 05:09:27 INFO: Epoch 2, Update 66000, Validation Loss: 1.8535
+2024-10-30 05:09:46 INFO: Model checkpoint saved at update 66000
+2024-10-30 05:12:03 INFO: Epoch 2, Update 66200, Validation Loss: 1.9892
+2024-10-30 05:14:21 INFO: Epoch 2, Update 66400, Validation Loss: 1.8948
+2024-10-30 05:16:38 INFO: Epoch 2, Update 66600, Validation Loss: 1.8659
+2024-10-30 05:18:56 INFO: Epoch 2, Update 66800, Validation Loss: 1.8747
+2024-10-30 05:21:13 INFO: Epoch 2, Update 67000, Validation Loss: 1.9642
+2024-10-30 05:23:30 INFO: Epoch 2, Update 67200, Validation Loss: 1.9600
+2024-10-30 05:25:47 INFO: Epoch 2, Update 67400, Validation Loss: 1.8582
+2024-10-30 05:28:04 INFO: Epoch 2, Update 67600, Validation Loss: 1.8889
+2024-10-30 05:30:22 INFO: Epoch 2, Update 67800, Validation Loss: 1.8926
+2024-10-30 05:32:40 INFO: Epoch 2, Update 68000, Validation Loss: 2.0042
+2024-10-30 05:32:58 INFO: Model checkpoint saved at update 68000
+2024-10-30 05:35:14 INFO: Epoch 2, Update 68200, Validation Loss: 1.9670
+2024-10-30 05:37:31 INFO: Epoch 2, Update 68400, Validation Loss: 1.9379
+2024-10-30 05:39:48 INFO: Epoch 2, Update 68600, Validation Loss: 1.9747
+2024-10-30 05:42:06 INFO: Epoch 2, Update 68800, Validation Loss: 1.9516
+2024-10-30 05:44:23 INFO: Epoch 2, Update 69000, Validation Loss: 1.8829
+2024-10-30 05:46:40 INFO: Epoch 2, Update 69200, Validation Loss: 1.9426
+2024-10-30 05:48:58 INFO: Epoch 2, Update 69400, Validation Loss: 1.8758
+2024-10-30 05:51:15 INFO: Epoch 2, Update 69600, Validation Loss: 1.8872
+2024-10-30 05:53:32 INFO: Epoch 2, Update 69800, Validation Loss: 1.8240
+2024-10-30 05:55:49 INFO: Epoch 2, Update 70000, Validation Loss: 1.8789
+2024-10-30 05:56:07 INFO: Model checkpoint saved at update 70000
+2024-10-30 05:58:23 INFO: Epoch 2, Update 70200, Validation Loss: 1.9514
+2024-10-30 06:00:40 INFO: Epoch 2, Update 70400, Validation Loss: 1.8428
+2024-10-30 06:02:56 INFO: Epoch 2, Update 70600, Validation Loss: 1.9534
+2024-10-30 06:05:14 INFO: Epoch 2, Update 70800, Validation Loss: 1.8986
+2024-10-30 06:07:31 INFO: Epoch 2, Update 71000, Validation Loss: 1.8214
+2024-10-30 06:09:49 INFO: Epoch 2, Update 71200, Validation Loss: 1.9014
+2024-10-30 06:12:05 INFO: Epoch 2, Update 71400, Validation Loss: 1.8381
+2024-10-30 06:14:23 INFO: Epoch 2, Update 71600, Validation Loss: 1.8277
+2024-10-30 06:16:41 INFO: Epoch 2, Update 71800, Validation Loss: 1.9998
+2024-10-30 06:18:58 INFO: Epoch 2, Update 72000, Validation Loss: 1.8811
+2024-10-30 06:19:16 INFO: Model checkpoint saved at update 72000
+2024-10-30 06:21:33 INFO: Epoch 2, Update 72200, Validation Loss: 1.9027
+2024-10-30 06:23:51 INFO: Epoch 2, Update 72400, Validation Loss: 1.9420
+2024-10-30 06:26:08 INFO: Epoch 2, Update 72600, Validation Loss: 1.8683
+2024-10-30 06:28:26 INFO: Epoch 2, Update 72800, Validation Loss: 1.8354
+2024-10-30 06:30:43 INFO: Epoch 2, Update 73000, Validation Loss: 1.9117
+2024-10-30 06:33:00 INFO: Epoch 2, Update 73200, Validation Loss: 1.8895
+2024-10-30 06:35:18 INFO: Epoch 2, Update 73400, Validation Loss: 1.9080
+2024-10-30 06:37:36 INFO: Epoch 2, Update 73600, Validation Loss: 1.9207
+2024-10-30 06:39:53 INFO: Epoch 2, Update 73800, Validation Loss: 1.8476
+2024-10-30 06:42:11 INFO: Epoch 2, Update 74000, Validation Loss: 1.8753
+2024-10-30 06:42:29 INFO: Model checkpoint saved at update 74000
+2024-10-30 06:44:46 INFO: Epoch 2, Update 74200, Validation Loss: 1.7741
+2024-10-30 06:47:02 INFO: Epoch 2, Update 74400, Validation Loss: 1.8476
+2024-10-30 06:49:20 INFO: Epoch 2, Update 74600, Validation Loss: 1.9697
+2024-10-30 06:51:37 INFO: Epoch 2, Update 74800, Validation Loss: 1.8627
+2024-10-30 06:53:54 INFO: Epoch 2, Update 75000, Validation Loss: 1.9163
+2024-10-30 06:56:12 INFO: Epoch 2, Update 75200, Validation Loss: 1.8356
+2024-10-30 06:58:29 INFO: Epoch 2, Update 75400, Validation Loss: 1.9332
+2024-10-30 07:00:46 INFO: Epoch 2, Update 75600, Validation Loss: 1.9767
+2024-10-30 07:03:03 INFO: Epoch 2, Update 75800, Validation Loss: 1.9252
+2024-10-30 07:05:20 INFO: Epoch 2, Update 76000, Validation Loss: 1.8431
+2024-10-30 07:05:38 INFO: Model checkpoint saved at update 76000
+2024-10-30 07:07:55 INFO: Epoch 2, Update 76200, Validation Loss: 1.9384
+2024-10-30 07:10:12 INFO: Epoch 2, Update 76400, Validation Loss: 1.8286
+2024-10-30 07:12:28 INFO: Epoch 2, Update 76600, Validation Loss: 1.8650
+2024-10-30 07:14:45 INFO: Epoch 2, Update 76800, Validation Loss: 1.8437
+2024-10-30 07:17:02 INFO: Epoch 2, Update 77000, Validation Loss: 1.8690
+2024-10-30 07:19:19 INFO: Epoch 2, Update 77200, Validation Loss: 1.9460
+2024-10-30 07:21:37 INFO: Epoch 2, Update 77400, Validation Loss: 1.8747
+2024-10-30 07:23:54 INFO: Epoch 2, Update 77600, Validation Loss: 1.8777
+2024-10-30 07:26:11 INFO: Epoch 2, Update 77800, Validation Loss: 1.9163
+2024-10-30 07:28:29 INFO: Epoch 2, Update 78000, Validation Loss: 1.7602
+2024-10-30 07:28:47 INFO: Model checkpoint saved at update 78000
+2024-10-30 07:31:04 INFO: Epoch 2, Update 78200, Validation Loss: 2.0089
+2024-10-30 07:33:21 INFO: Epoch 2, Update 78400, Validation Loss: 1.7241
+2024-10-30 07:35:38 INFO: Epoch 2, Update 78600, Validation Loss: 1.9442
+2024-10-30 07:37:55 INFO: Epoch 2, Update 78800, Validation Loss: 1.8563
+2024-10-30 07:40:13 INFO: Epoch 2, Update 79000, Validation Loss: 1.8358
+2024-10-30 07:42:29 INFO: Epoch 2, Update 79200, Validation Loss: 1.8980
+2024-10-30 07:44:46 INFO: Epoch 2, Update 79400, Validation Loss: 1.8333
+2024-10-30 07:47:02 INFO: Epoch 2, Update 79600, Validation Loss: 1.8912
+2024-10-30 07:49:20 INFO: Epoch 2, Update 79800, Validation Loss: 1.7531
+2024-10-30 07:51:36 INFO: Epoch 2, Update 80000, Validation Loss: 1.9551
+2024-10-30 07:51:54 INFO: Model checkpoint saved at update 80000
+2024-10-30 07:54:09 INFO: Epoch 2, Update 80200, Validation Loss: 1.8847
+2024-10-30 07:56:25 INFO: Epoch 2, Update 80400, Validation Loss: 1.9490
+2024-10-30 07:58:42 INFO: Epoch 2, Update 80600, Validation Loss: 1.7945
+2024-10-30 08:00:59 INFO: Epoch 2, Update 80800, Validation Loss: 1.9491
+2024-10-30 08:03:16 INFO: Epoch 2, Update 81000, Validation Loss: 1.8203
+2024-10-30 08:05:33 INFO: Epoch 2, Update 81200, Validation Loss: 1.7907
+2024-10-30 08:07:49 INFO: Epoch 2, Update 81400, Validation Loss: 1.8551
+2024-10-30 08:10:06 INFO: Epoch 2, Update 81600, Validation Loss: 1.8602
+2024-10-30 08:12:23 INFO: Epoch 2, Update 81800, Validation Loss: 1.9582
+2024-10-30 08:14:39 INFO: Epoch 2, Update 82000, Validation Loss: 1.9409
+2024-10-30 08:14:57 INFO: Model checkpoint saved at update 82000
+2024-10-30 08:17:13 INFO: Epoch 2, Update 82200, Validation Loss: 1.9581
+2024-10-30 08:19:30 INFO: Epoch 2, Update 82400, Validation Loss: 1.8889
+2024-10-30 08:21:47 INFO: Epoch 2, Update 82600, Validation Loss: 1.8071
+2024-10-30 08:24:04 INFO: Epoch 2, Update 82800, Validation Loss: 1.8921
+2024-10-30 08:26:20 INFO: Epoch 2, Update 83000, Validation Loss: 1.8588
+2024-10-30 08:28:37 INFO: Epoch 2, Update 83200, Validation Loss: 1.8197
+2024-10-30 08:30:54 INFO: Epoch 2, Update 83400, Validation Loss: 1.9028
+2024-10-30 08:33:11 INFO: Epoch 2, Update 83600, Validation Loss: 1.9012
+2024-10-30 08:35:28 INFO: Epoch 2, Update 83800, Validation Loss: 1.7843
+2024-10-30 08:37:45 INFO: Epoch 2, Update 84000, Validation Loss: 1.8943
+2024-10-30 08:38:02 INFO: Model checkpoint saved at update 84000
+2024-10-30 08:40:18 INFO: Epoch 2, Update 84200, Validation Loss: 1.7416
+2024-10-30 08:42:34 INFO: Epoch 2, Update 84400, Validation Loss: 1.9462
+2024-10-30 08:44:50 INFO: Epoch 2, Update 84600, Validation Loss: 1.7881
+2024-10-30 08:47:07 INFO: Epoch 2, Update 84800, Validation Loss: 1.8055
+2024-10-30 08:49:25 INFO: Epoch 2, Update 85000, Validation Loss: 1.8157
+2024-10-30 08:51:42 INFO: Epoch 2, Update 85200, Validation Loss: 1.8723
+2024-10-30 08:54:00 INFO: Epoch 2, Update 85400, Validation Loss: 1.8449
+2024-10-30 08:56:16 INFO: Epoch 2, Update 85600, Validation Loss: 1.8488
+2024-10-30 08:58:33 INFO: Epoch 2, Update 85800, Validation Loss: 1.9379
+2024-10-30 09:00:50 INFO: Epoch 2, Update 86000, Validation Loss: 1.9080
+2024-10-30 09:01:08 INFO: Model checkpoint saved at update 86000
+2024-10-30 09:03:25 INFO: Epoch 2, Update 86200, Validation Loss: 1.8218
+2024-10-30 09:05:42 INFO: Epoch 2, Update 86400, Validation Loss: 1.8205
+2024-10-30 09:07:59 INFO: Epoch 2, Update 86600, Validation Loss: 1.8905
+2024-10-30 09:10:15 INFO: Epoch 2, Update 86800, Validation Loss: 1.9542
+2024-10-30 09:12:33 INFO: Epoch 2, Update 87000, Validation Loss: 1.8108
+2024-10-30 09:14:50 INFO: Epoch 2, Update 87200, Validation Loss: 1.9218
+2024-10-30 09:17:06 INFO: Epoch 2, Update 87400, Validation Loss: 1.8157
+2024-10-30 09:19:22 INFO: Epoch 2, Update 87600, Validation Loss: 1.9074
+2024-10-30 09:21:39 INFO: Epoch 2, Update 87800, Validation Loss: 1.7727
+2024-10-30 09:23:56 INFO: Epoch 2, Update 88000, Validation Loss: 1.8148
+2024-10-30 09:24:14 INFO: Model checkpoint saved at update 88000
+2024-10-30 09:26:30 INFO: Epoch 2, Update 88200, Validation Loss: 1.8854
+2024-10-30 09:28:47 INFO: Epoch 2, Update 88400, Validation Loss: 1.9272
+2024-10-30 09:31:04 INFO: Epoch 2, Update 88600, Validation Loss: 1.9762
+2024-10-30 09:33:21 INFO: Epoch 2, Update 88800, Validation Loss: 1.9322
+2024-10-30 09:35:39 INFO: Epoch 2, Update 89000, Validation Loss: 1.8782
+2024-10-30 09:37:56 INFO: Epoch 2, Update 89200, Validation Loss: 1.7858
+2024-10-30 09:40:12 INFO: Epoch 2, Update 89400, Validation Loss: 2.0032
+2024-10-30 09:42:28 INFO: Epoch 2, Update 89600, Validation Loss: 1.8022
+2024-10-30 09:44:45 INFO: Epoch 2, Update 89800, Validation Loss: 1.8521
+2024-10-30 09:47:02 INFO: Epoch 2, Update 90000, Validation Loss: 1.9096
+2024-10-30 09:47:19 INFO: Model checkpoint saved at update 90000
+2024-10-30 09:49:35 INFO: Epoch 2, Update 90200, Validation Loss: 1.9032
+2024-10-30 09:51:52 INFO: Epoch 2, Update 90400, Validation Loss: 1.8778
+2024-10-30 09:54:09 INFO: Epoch 2, Update 90600, Validation Loss: 1.8172
+2024-10-30 09:56:27 INFO: Epoch 2, Update 90800, Validation Loss: 1.8459
+2024-10-30 09:58:44 INFO: Epoch 2, Update 91000, Validation Loss: 1.8711
+2024-10-30 10:01:00 INFO: Epoch 2, Update 91200, Validation Loss: 1.8553
+2024-10-30 10:03:18 INFO: Epoch 2, Update 91400, Validation Loss: 1.9371
+2024-10-30 10:05:34 INFO: Epoch 2, Update 91600, Validation Loss: 2.0218
+2024-10-30 10:07:52 INFO: Epoch 2, Update 91800, Validation Loss: 1.8895
+2024-10-30 10:10:10 INFO: Epoch 2, Update 92000, Validation Loss: 1.9309
+2024-10-30 10:10:27 INFO: Model checkpoint saved at update 92000
+2024-10-30 10:12:43 INFO: Epoch 2, Update 92200, Validation Loss: 1.8800
+2024-10-30 10:15:01 INFO: Epoch 2, Update 92400, Validation Loss: 1.9506
+2024-10-30 10:17:18 INFO: Epoch 2, Update 92600, Validation Loss: 1.9158
+2024-10-30 10:19:36 INFO: Epoch 2, Update 92800, Validation Loss: 1.9448
+2024-10-30 10:21:53 INFO: Epoch 2, Update 93000, Validation Loss: 1.9272
+2024-10-30 10:24:11 INFO: Epoch 2, Update 93200, Validation Loss: 1.8369
+2024-10-30 10:26:27 INFO: Epoch 2, Update 93400, Validation Loss: 1.8449
+2024-10-30 10:28:44 INFO: Epoch 2, Update 93600, Validation Loss: 1.8494
+2024-10-30 10:31:01 INFO: Epoch 2, Update 93800, Validation Loss: 1.9181
+2024-10-30 10:33:18 INFO: Epoch 2, Update 94000, Validation Loss: 1.8118
+2024-10-30 10:33:35 INFO: Model checkpoint saved at update 94000
+2024-10-30 10:35:51 INFO: Epoch 2, Update 94200, Validation Loss: 1.8920
+2024-10-30 10:38:09 INFO: Epoch 2, Update 94400, Validation Loss: 1.8990
+2024-10-30 10:40:26 INFO: Epoch 2, Update 94600, Validation Loss: 1.8030
+2024-10-30 10:42:44 INFO: Epoch 2, Update 94800, Validation Loss: 1.9550
+2024-10-30 10:45:01 INFO: Epoch 2, Update 95000, Validation Loss: 1.9550
+2024-10-30 10:47:18 INFO: Epoch 2, Update 95200, Validation Loss: 1.8239
+2024-10-30 10:49:36 INFO: Epoch 2, Update 95400, Validation Loss: 1.8501
+2024-10-30 10:51:54 INFO: Epoch 2, Update 95600, Validation Loss: 1.8763
+2024-10-30 10:54:12 INFO: Epoch 2, Update 95800, Validation Loss: 1.8969
+2024-10-30 10:56:30 INFO: Epoch 2, Update 96000, Validation Loss: 1.8024
+2024-10-30 10:56:48 INFO: Model checkpoint saved at update 96000
+2024-10-30 10:59:04 INFO: Epoch 2, Update 96200, Validation Loss: 1.8853
+2024-10-30 11:01:21 INFO: Epoch 2, Update 96400, Validation Loss: 1.7995
+2024-10-30 11:03:39 INFO: Epoch 2, Update 96600, Validation Loss: 1.7683
+2024-10-30 11:05:56 INFO: Epoch 2, Update 96800, Validation Loss: 1.9757
+2024-10-30 11:08:14 INFO: Epoch 2, Update 97000, Validation Loss: 1.8289
+2024-10-30 11:10:31 INFO: Epoch 2, Update 97200, Validation Loss: 1.8873
+2024-10-30 11:12:48 INFO: Epoch 2, Update 97400, Validation Loss: 1.8628
+2024-10-30 11:15:05 INFO: Epoch 2, Update 97600, Validation Loss: 1.7926
+2024-10-30 11:17:22 INFO: Epoch 2, Update 97800, Validation Loss: 1.9415
+2024-10-30 11:19:39 INFO: Epoch 2, Update 98000, Validation Loss: 1.9765
+2024-10-30 11:19:56 INFO: Model checkpoint saved at update 98000
+2024-10-30 11:22:13 INFO: Epoch 2, Update 98200, Validation Loss: 1.7456
+2024-10-30 11:24:30 INFO: Epoch 2, Update 98400, Validation Loss: 1.9315
+2024-10-30 11:26:47 INFO: Epoch 2, Update 98600, Validation Loss: 1.8497
+2024-10-30 11:29:03 INFO: Epoch 2, Update 98800, Validation Loss: 1.8808
+2024-10-30 11:31:20 INFO: Epoch 2, Update 99000, Validation Loss: 1.8771
+2024-10-30 11:33:37 INFO: Epoch 2, Update 99200, Validation Loss: 1.8725
+2024-10-30 11:35:53 INFO: Epoch 2, Update 99400, Validation Loss: 1.8372
+2024-10-30 11:38:10 INFO: Epoch 2, Update 99600, Validation Loss: 1.8149
+2024-10-30 11:40:27 INFO: Epoch 2, Update 99800, Validation Loss: 1.8128
+2024-10-30 11:42:44 INFO: Epoch 2, Update 100000, Validation Loss: 1.8985
+2024-10-30 11:43:01 INFO: Model checkpoint saved at update 100000
+2024-10-30 11:45:17 INFO: Epoch 2, Update 100200, Validation Loss: 1.8851
+2024-10-30 11:47:34 INFO: Epoch 2, Update 100400, Validation Loss: 1.8895
+2024-10-30 11:49:51 INFO: Epoch 2, Update 100600, Validation Loss: 1.9149
+2024-10-30 11:52:08 INFO: Epoch 2, Update 100800, Validation Loss: 1.9007
+2024-10-30 11:54:24 INFO: Epoch 2, Update 101000, Validation Loss: 1.8783
+2024-10-30 11:56:42 INFO: Epoch 2, Update 101200, Validation Loss: 1.9515
+2024-10-30 11:58:59 INFO: Epoch 2, Update 101400, Validation Loss: 1.9551
+2024-10-30 12:01:15 INFO: Epoch 2, Update 101600, Validation Loss: 1.8284
+2024-10-30 12:03:32 INFO: Epoch 2, Update 101800, Validation Loss: 1.9407
+2024-10-30 12:05:48 INFO: Epoch 2, Update 102000, Validation Loss: 1.8591
+2024-10-30 12:06:07 INFO: Model checkpoint saved at update 102000
+2024-10-30 12:08:22 INFO: Epoch 2, Update 102200, Validation Loss: 1.9454
+2024-10-30 12:10:40 INFO: Epoch 2, Update 102400, Validation Loss: 1.7869
+2024-10-30 12:12:56 INFO: Epoch 2, Update 102600, Validation Loss: 1.8377
+2024-10-30 12:15:13 INFO: Epoch 2, Update 102800, Validation Loss: 1.9651
+2024-10-30 12:17:29 INFO: Epoch 2, Update 103000, Validation Loss: 1.8378
+2024-10-30 12:19:46 INFO: Epoch 2, Update 103200, Validation Loss: 1.8318
+2024-10-30 12:22:02 INFO: Epoch 2, Update 103400, Validation Loss: 1.9098
+2024-10-30 12:24:18 INFO: Epoch 2, Update 103600, Validation Loss: 1.8847
+2024-10-30 12:26:35 INFO: Epoch 2, Update 103800, Validation Loss: 1.8784
+2024-10-30 12:28:52 INFO: Epoch 2, Update 104000, Validation Loss: 1.9055
+2024-10-30 12:29:09 INFO: Model checkpoint saved at update 104000
+2024-10-30 12:31:25 INFO: Epoch 2, Update 104200, Validation Loss: 1.8541
+2024-10-30 12:33:42 INFO: Epoch 2, Update 104400, Validation Loss: 1.8404
+2024-10-30 12:35:59 INFO: Epoch 2, Update 104600, Validation Loss: 1.9156
+2024-10-30 12:38:16 INFO: Epoch 2, Update 104800, Validation Loss: 1.9141
+2024-10-30 12:40:33 INFO: Epoch 2, Update 105000, Validation Loss: 1.7576
+2024-10-30 12:42:50 INFO: Epoch 2, Update 105200, Validation Loss: 1.8626
+2024-10-30 12:45:07 INFO: Epoch 2, Update 105400, Validation Loss: 1.9051
+2024-10-30 12:47:23 INFO: Epoch 2, Update 105600, Validation Loss: 1.8744
+2024-10-30 12:49:40 INFO: Epoch 2, Update 105800, Validation Loss: 1.9776
+2024-10-30 12:51:57 INFO: Epoch 2, Update 106000, Validation Loss: 1.8702
+2024-10-30 12:52:15 INFO: Model checkpoint saved at update 106000
+2024-10-30 12:54:31 INFO: Epoch 2, Update 106200, Validation Loss: 1.8749
+2024-10-30 12:56:48 INFO: Epoch 2, Update 106400, Validation Loss: 1.9170
+2024-10-30 12:59:05 INFO: Epoch 2, Update 106600, Validation Loss: 1.9128
+2024-10-30 13:01:22 INFO: Epoch 2, Update 106800, Validation Loss: 1.8649
+2024-10-30 13:03:38 INFO: Epoch 2, Update 107000, Validation Loss: 1.8976
+2024-10-30 13:05:55 INFO: Epoch 2, Update 107200, Validation Loss: 1.9357
+2024-10-30 13:08:11 INFO: Epoch 2, Update 107400, Validation Loss: 1.8886
+2024-10-30 13:10:28 INFO: Epoch 2, Update 107600, Validation Loss: 1.8722
+2024-10-30 13:12:45 INFO: Epoch 2, Update 107800, Validation Loss: 1.8685
+2024-10-30 13:15:02 INFO: Epoch 2, Update 108000, Validation Loss: 1.8686
+2024-10-30 13:15:19 INFO: Model checkpoint saved at update 108000
+2024-10-30 13:17:36 INFO: Epoch 2, Update 108200, Validation Loss: 1.8382
+2024-10-30 13:19:52 INFO: Epoch 2, Update 108400, Validation Loss: 1.9122
+2024-10-30 13:22:09 INFO: Epoch 2, Update 108600, Validation Loss: 1.8866
+2024-10-30 13:24:27 INFO: Epoch 2, Update 108800, Validation Loss: 1.8491
+2024-10-30 13:26:43 INFO: Epoch 2, Update 109000, Validation Loss: 1.9592
+2024-10-30 13:29:00 INFO: Epoch 2, Update 109200, Validation Loss: 1.8423
+2024-10-30 13:31:17 INFO: Epoch 2, Update 109400, Validation Loss: 1.8841
+2024-10-30 13:33:33 INFO: Epoch 2, Update 109600, Validation Loss: 1.8705
+2024-10-30 13:35:50 INFO: Epoch 2, Update 109800, Validation Loss: 1.8663
+2024-10-30 13:38:07 INFO: Epoch 2, Update 110000, Validation Loss: 1.8416
+2024-10-30 13:38:25 INFO: Model checkpoint saved at update 110000
+2024-10-30 13:40:40 INFO: Epoch 2, Update 110200, Validation Loss: 1.8095
+2024-10-30 13:42:58 INFO: Epoch 2, Update 110400, Validation Loss: 1.8193
+2024-10-30 13:45:15 INFO: Epoch 2, Update 110600, Validation Loss: 1.8619
+2024-10-30 13:47:33 INFO: Epoch 2, Update 110800, Validation Loss: 1.8686
+2024-10-30 13:49:50 INFO: Epoch 2, Update 111000, Validation Loss: 1.8674
+2024-10-30 13:52:08 INFO: Epoch 2, Update 111200, Validation Loss: 1.7594
+2024-10-30 13:54:25 INFO: Epoch 2, Update 111400, Validation Loss: 1.8590
+2024-10-30 13:56:42 INFO: Epoch 2, Update 111600, Validation Loss: 1.8508
+2024-10-30 13:58:59 INFO: Epoch 2, Update 111800, Validation Loss: 1.8848
+2024-10-30 14:01:16 INFO: Epoch 2, Update 112000, Validation Loss: 1.7891
+2024-10-30 14:01:33 INFO: Model checkpoint saved at update 112000
+2024-10-30 14:03:50 INFO: Epoch 2, Update 112200, Validation Loss: 1.8617
+2024-10-30 14:06:07 INFO: Epoch 2, Update 112400, Validation Loss: 1.8319
+2024-10-30 14:08:24 INFO: Epoch 2, Update 112600, Validation Loss: 1.8388
+2024-10-30 14:10:41 INFO: Epoch 2, Update 112800, Validation Loss: 1.9492
+2024-10-30 14:12:59 INFO: Epoch 2, Update 113000, Validation Loss: 1.8853
+2024-10-30 14:15:17 INFO: Epoch 2, Update 113200, Validation Loss: 1.7740
+2024-10-30 14:17:35 INFO: Epoch 2, Update 113400, Validation Loss: 1.9124
+2024-10-30 14:19:53 INFO: Epoch 2, Update 113600, Validation Loss: 1.7646
+2024-10-30 14:22:10 INFO: Epoch 2, Update 113800, Validation Loss: 1.8584
+2024-10-30 14:24:28 INFO: Epoch 2, Update 114000, Validation Loss: 1.8808
+2024-10-30 14:24:46 INFO: Model checkpoint saved at update 114000
+2024-10-30 14:27:02 INFO: Epoch 2, Update 114200, Validation Loss: 1.8274
+2024-10-30 14:29:20 INFO: Epoch 2, Update 114400, Validation Loss: 1.7776
+2024-10-30 14:31:36 INFO: Epoch 2, Update 114600, Validation Loss: 1.8840
+2024-10-30 14:33:53 INFO: Epoch 2, Update 114800, Validation Loss: 1.9475
+2024-10-30 14:36:11 INFO: Epoch 2, Update 115000, Validation Loss: 1.8040
+2024-10-30 14:38:28 INFO: Epoch 2, Update 115200, Validation Loss: 1.9424
+2024-10-30 14:40:45 INFO: Epoch 2, Update 115400, Validation Loss: 1.8727
+2024-10-30 14:43:02 INFO: Epoch 2, Update 115600, Validation Loss: 1.8678
+2024-10-30 14:45:19 INFO: Epoch 2, Update 115800, Validation Loss: 1.8911
+2024-10-30 14:47:37 INFO: Epoch 2, Update 116000, Validation Loss: 1.7988
+2024-10-30 14:47:55 INFO: Model checkpoint saved at update 116000
+2024-10-30 14:50:11 INFO: Epoch 2, Update 116200, Validation Loss: 1.8775
+2024-10-30 14:52:29 INFO: Epoch 2, Update 116400, Validation Loss: 1.9005
+2024-10-30 14:54:47 INFO: Epoch 2, Update 116600, Validation Loss: 1.8949
+2024-10-30 14:57:04 INFO: Epoch 2, Update 116800, Validation Loss: 1.8303
+2024-10-30 14:59:20 INFO: Epoch 2, Update 117000, Validation Loss: 1.8712
+2024-10-30 15:01:38 INFO: Epoch 2, Update 117200, Validation Loss: 1.9278
+2024-10-30 15:03:55 INFO: Epoch 2, Update 117400, Validation Loss: 1.8821
+2024-10-30 15:06:13 INFO: Epoch 2, Update 117600, Validation Loss: 1.9414
+2024-10-30 15:08:30 INFO: Epoch 2, Update 117800, Validation Loss: 1.9001
+2024-10-30 15:10:47 INFO: Epoch 2, Update 118000, Validation Loss: 1.8975
+2024-10-30 15:11:05 INFO: Model checkpoint saved at update 118000
+2024-10-30 15:13:21 INFO: Epoch 2, Update 118200, Validation Loss: 1.9058
+2024-10-30 15:15:38 INFO: Epoch 2, Update 118400, Validation Loss: 1.7878
+2024-10-30 15:17:55 INFO: Epoch 2, Update 118600, Validation Loss: 1.7899
+2024-10-30 15:20:13 INFO: Epoch 2, Update 118800, Validation Loss: 1.8062
+2024-10-30 15:22:29 INFO: Epoch 2, Update 119000, Validation Loss: 1.9332
+2024-10-30 15:24:46 INFO: Epoch 2, Update 119200, Validation Loss: 1.7933
+2024-10-30 15:27:03 INFO: Epoch 2, Update 119400, Validation Loss: 1.8670
+2024-10-30 15:29:21 INFO: Epoch 2, Update 119600, Validation Loss: 1.8618
+2024-10-30 15:31:38 INFO: Epoch 2, Update 119800, Validation Loss: 1.9044
+2024-10-30 15:33:55 INFO: Epoch 2, Update 120000, Validation Loss: 1.7386
+2024-10-30 15:34:13 INFO: Model checkpoint saved at update 120000
+2024-10-30 15:36:29 INFO: Epoch 2, Update 120200, Validation Loss: 1.9052
+2024-10-30 15:38:47 INFO: Epoch 2, Update 120400, Validation Loss: 1.7493
+2024-10-30 15:41:04 INFO: Epoch 2, Update 120600, Validation Loss: 1.8230
+2024-10-30 15:43:22 INFO: Epoch 2, Update 120800, Validation Loss: 1.8167
+2024-10-30 15:45:39 INFO: Epoch 2, Update 121000, Validation Loss: 1.7294
+2024-10-30 15:47:56 INFO: Epoch 2, Update 121200, Validation Loss: 1.9661
+2024-10-30 15:50:14 INFO: Epoch 2, Update 121400, Validation Loss: 1.8465
+2024-10-30 15:52:31 INFO: Epoch 2, Update 121600, Validation Loss: 1.8823
+2024-10-30 15:54:49 INFO: Epoch 2, Update 121800, Validation Loss: 1.8867
+2024-10-30 15:57:06 INFO: Epoch 2, Update 122000, Validation Loss: 1.7957
+2024-10-30 15:57:24 INFO: Model checkpoint saved at update 122000
+2024-10-30 15:59:40 INFO: Epoch 2, Update 122200, Validation Loss: 1.8250
+2024-10-30 16:01:57 INFO: Epoch 2, Update 122400, Validation Loss: 1.8362
+2024-10-30 16:04:15 INFO: Epoch 2, Update 122600, Validation Loss: 1.7645
+2024-10-30 16:06:32 INFO: Epoch 2, Update 122800, Validation Loss: 1.8660
+2024-10-30 16:08:50 INFO: Epoch 2, Update 123000, Validation Loss: 1.9107
+2024-10-30 16:11:07 INFO: Epoch 2, Update 123200, Validation Loss: 1.7681
+2024-10-30 16:13:24 INFO: Epoch 2, Update 123400, Validation Loss: 1.8455
+2024-10-30 16:15:41 INFO: Epoch 2, Update 123600, Validation Loss: 1.7443
+2024-10-30 16:17:59 INFO: Epoch 2, Update 123800, Validation Loss: 1.7630
+2024-10-30 16:20:16 INFO: Epoch 2, Update 124000, Validation Loss: 1.8575
+2024-10-30 16:20:34 INFO: Model checkpoint saved at update 124000
+2024-10-30 16:22:50 INFO: Epoch 2, Update 124200, Validation Loss: 1.9186
+2024-10-30 16:24:17 INFO: Epoch training complete
+2024-10-30 16:24:17 INFO: Computing final validation loss...
+2024-10-30 16:24:33 INFO: Final validation loss after epoch 2: 1.8912
+2024-10-30 16:24:51 INFO: Model saved after epoch 2
+2024-10-30 16:25:28 INFO: Model artifact logged to wandb

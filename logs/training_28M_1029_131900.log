@@ -1,0 +1,5 @@
+2024-10-29 13:19:17 INFO: cfg_param: 28M, lr: 0.001, batch_size: 16, model_dir: models/model_28M_1029_131900, log_filename: logs/training_28M_1029_131900.log, seed: 3407, epochs: 3
+2024-10-29 13:19:18 INFO: Epoch: 1
+2024-10-29 13:19:35 INFO: cfg_param: 28M, lr: 0.001, batch_size: 16, model_dir: models/model_28M_1029_131900, log_filename: logs/training_28M_1029_131900.log, seed: 3407, epochs: 3
+2024-10-29 13:19:37 INFO: Epoch: 1
+2024-10-29 13:20:30 INFO: Epoch: 1
